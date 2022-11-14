@@ -2,5 +2,5 @@
 <li> Tener NodeJS instalado </li>
 <li> Tener mongoDB instalado e iniciado </li>
 <br>
-  <h1>INICIAR APP </hi>
+<h1>INICIAR APP </h1>
 npm run dev
